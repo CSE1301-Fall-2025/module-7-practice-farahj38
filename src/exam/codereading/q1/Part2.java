@@ -9,4 +9,8 @@ public class Part2 {
 		v4.majorBump( ) ;
 		System.out.println(v4.isEquivalent( v4b ) ) ;
 	}
+	// C
+	// C
+	// B
+	// S : v 4 . 1
 }
